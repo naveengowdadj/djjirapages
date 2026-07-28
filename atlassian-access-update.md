@@ -2,7 +2,7 @@
 
 # Jira & Confluence Access Management
 
-*Dow Jones Jira Admin Team · Effective Immediately*
+*Dow Jones Jira Admin Team ·*
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
